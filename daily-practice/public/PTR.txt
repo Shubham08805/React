@@ -1,0 +1,15 @@
+steps of execution after --->npm start
+1.npm start--->
+2.start script from package.json got triggered
+3.react-script start get called
+4.internally triggered webpack
+5.looks for a file called index.js in src folder will be called
+
+ReactDOM is a package(dependency) which is responsible for DOM manipulation
+
+
+HTML---->responsible for view 
+CSS----->look and feel
+js------>logic
+
+JSX----->dynamic in Nature
