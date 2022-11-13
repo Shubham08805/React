@@ -13,3 +13,9 @@ CSS----->look and feel
 js------>logic
 
 JSX----->dynamic in Nature
+
+//difference -----> interview question
+component types{
+ 1.functional
+ 2.class
+}
