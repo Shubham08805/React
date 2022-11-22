@@ -1,10 +1,15 @@
-/* .App{
+.App{
     display: flex;
     justify-content: center;
     align-items: center;
     margin-top: 15%;
-} */
+}
+
 #count{
+    padding:1rem;
     margin: auto;
     
+}
+button{
+    margin-inline: 0.5rem;
 }

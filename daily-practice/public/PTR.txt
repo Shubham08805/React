@@ -20,3 +20,6 @@ component types{
  2.class
 }
 
+Note: In react we can't access the dom directly by using document.getElementById 
+because it's declarative.
+instead of that we use listener---->like onClick,onChange

@@ -8,6 +8,7 @@ import { Counter } from './components/Counter/Counter';
 import Footer  from './components/Footer/Footer'
 import { SquareofNumber } from './components/SquareofNumber/SquareofNumber';
 import IncrementAndDecrementCounter from './components/IncrementAndDecrementCounter/IncrementAndDecrementCounter';
+import { FormExample1 } from './components/Forms/FormExample1';
 
 function App() {
   
@@ -18,7 +19,8 @@ function App() {
           <Footer /> */}
         {/* <Counter /> */}
         {/* <SquareofNumber /> */}
-        <IncrementAndDecrementCounter />
+        {/* <IncrementAndDecrementCounter /> */}
+        <FormExample1 />
       </header>
     </div>
     );
