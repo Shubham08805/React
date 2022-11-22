@@ -19,3 +19,4 @@ component types{
  1.functional
  2.class
 }
+
